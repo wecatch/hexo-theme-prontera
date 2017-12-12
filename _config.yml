@@ -3,8 +3,12 @@ favicon: /favicon.ico
 
 # Nav Menus
 menu:
-    Index: /
-    Archives: /archives
+    首页: /
+    基础概念: /categories/basic/
+    高级主题: /categories/advanced/
+    最佳实践: /categories/practice/
+    书籍推荐: /book
+    开源项目: /categories/projects/
 
 # Nav Shortcut Icons
 nav_icons:
@@ -13,23 +17,22 @@ nav_icons:
 
 # Friend Links
 friend_links:
-    - ['AngryPowman', 'This is a link', 'http://powman.org']
-    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
+    - ['wecatch', 'wecatch', 'http://wecatch.me']
 
 
 # About
 about_info:
-    name: "AngryPowman"
-    bio: "十年饮冰·难凉热血"
-    avatar: "/images/avatar.png"
+    name: "wecatch"
+    bio: "wecatch 官方出品 Go 教程"
+    avatar: "https://avatars0.githubusercontent.com/u/7918984?s=200&v=4"
 
 # Comment
 # e.g disqus: seansun
-disqus: angrypowman
+disqus: 
 duoshuo: 
 
 # Analytics
-google_analytics: angrypowman
+google_analytics: UA-79591400-1
 tencent_analytics: 
  
 # Copyright Infomation
